@@ -1,8 +1,8 @@
-baseurl: http://sites.science.oregonstate.edu/~molyneuj/
+baseurl: https://focused-murdock-ca6c32.netlify.app
 # DefaultContentLanguage: en
 title: James Molyneux
 theme: hugo-future-imperfect-slim
-paginate: 3
+paginate: 5
 disqusShortname: ''
 googleAnalytics: ''
 pluralizeListTitles: no
