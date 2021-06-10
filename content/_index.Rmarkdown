@@ -1,0 +1,9 @@
+---
+title: Welcome
+author: James
+date: "2021-06-10"
+description: Coffee, tea, and statistics
+layout: about
+---
+
+Hello!
