@@ -1,6 +1,6 @@
 ---
 author: James Molyneux
-date: "2019-02-28"
+date: "2021-06-15"
 description: James Molyneux, Ph.D. (He/Him/His)
 layout: about
 title: About me
