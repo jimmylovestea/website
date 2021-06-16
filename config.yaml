@@ -36,11 +36,11 @@ params:
   imageStretch: ''
   intro:
     alwaysOnHomepage: no
-    header: Hugo Future Imperfect Slim
+    header: James Molyneux
     hideWhenSingleColumn: no
     paragraph: Assistant Professor of Statistics at Oregon State University
     pic:
-      alt: Hugo Future Imperfect Slim
+      alt: Picture of me and my dad from when we were camping in Yosemite. It rained for, like, 3 days straight.
       shape: circle
       src: img/main/me-and-dad.jpg
       width: '300'
@@ -58,7 +58,7 @@ params:
   readingTime: no
   removeBlur: no
   sidebar:
-    # about: This theme was developed for Hugo static site generator.
+    about: no
     categories: no
     categoriesByCount: no
     postAmount: 0
@@ -99,11 +99,11 @@ menu:
       pre: <i class='far fa-id-card'></i>
       url: about
       weight: 2
-    - identifier: blog
-      name: Blog
-      pre: <i class='far fa-newspaper'></i>
-      url: blog
-      weight: 3
+    # - identifier: blog
+    #   name: Blog
+    #   pre: <i class='far fa-newspaper'></i>
+    #   url: blog
+    #   weight: 3
     # - identifier: categories
     #   name: Categories
     #   pre: <i class='fas fa-sitemap'></i>
