@@ -1,25 +1,11 @@
 ---
-author: Hugo Authors
+author: James Molyneux
 date: "2019-02-28"
-description: Hugo, the world’s fastest framework for building websites
+description: James Molyneux, Ph.D. (He/Him/His)
 layout: about
-title: About
+title: About me
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I'm an assistant professor of [statistics at Oregon State University](https://stat.oregonstate.edu). My recent research has involved applications and methods for self-exciting point processes. I've also dabbled in some statistical seismology related to this class of model and am generally interested in all things spatio-temporal related.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Besides the point process work, I'm also interested in tools and methods for teaching statistics in university and high school settings. While a grad student at UCLA, I worked on the Mobilize project and co-authored the [Introduction to Data Science](https://www.idsucla.org) high school math curriculum. Since graduating, the curriculum has continued to grow in its use and I'm glad to say that I still help out with it every so often.

@@ -4,6 +4,3 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.js
   and follow the formatting and style given.
 */
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
